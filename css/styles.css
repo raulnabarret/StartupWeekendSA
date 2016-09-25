@@ -1,0 +1,61 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+nav {
+	box-shadow: none;
+	padding: 0 10px 0 10px;
+}
+
+.logo {
+	padding: 15px 10px;
+	width: 220px;
+}
+
+#header {
+	background: url(../assets/FONDO.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+}
+
+.main-header {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+	height: 90%;
+}
+
+.main-header img {
+	opacity: 0.4;
+}
+
+.main-header-text {
+	padding-top: 40px;
+	text-transform: uppercase;
+}
+
+h1 {
+	color: #fff;
+	font-size: 36px;
+	font-weight: 400;
+	margin: 0;
+}
+
+h2 {
+	color: #fff;
+	font-size: 36px;
+	font-weight: 300;
+	margin: 0;
+}
+
+.main-header-btn {
+	padding-top: 40px;
+}
+
+.main-header-btn button {
+	background: 
+}
